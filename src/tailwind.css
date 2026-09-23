@@ -215,7 +215,7 @@
   }
 
   .project .cover {
-    @apply h-48 bg-gradient-to-br from-indigo-100 to-blue-50 border-b border-slate-200 flex flex-col items-center justify-center p-6 text-center transition-transform duration-300;
+    @apply relative h-48 bg-gradient-to-br from-indigo-100 to-blue-50 border-b border-slate-200 flex flex-col items-center justify-center p-6 text-center transition-transform duration-300;
   }
   .project .cover i {
     @apply text-4xl text-brand-600 mb-2;
